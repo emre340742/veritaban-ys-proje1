@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="RentACar_Database_Project">
+  <Items>
+    <LogicalFolder Name="Bağlantılar" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="localhost\SQLEXPRESS01:EMRE\emres">
+          <Created>2026-04-19T19:01:04.6346748+03:00</Created>
+          <Type>SQL</Type>
+          <Server>localhost\SQLEXPRESS01</Server>
+          <UserName />
+          <Authentication>Windows Kimlik Doğrulaması</Authentication>
+          <InitialDB>RentACarDB</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Sorgu</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sorgular" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Çeşitli" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
