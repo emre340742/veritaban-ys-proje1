@@ -1,0 +1,10 @@
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentaCarUI.csproj.AssemblyReference.cache
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentACarUI.Form1.resources
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentaCarUI.Properties.Resources.resources
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentaCarUI.csproj.GenerateResource.cache
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentaCarUI.csproj.CoreCompileInputs.cache
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\bin\Debug\RentaCarUI.exe.config
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\bin\Debug\RentaCarUI.exe
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\bin\Debug\RentaCarUI.pdb
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentaCarUI.exe
+C:\Users\emres\source\repos\RentaCarUI\RentaCarUI\obj\Debug\RentaCarUI.pdb
